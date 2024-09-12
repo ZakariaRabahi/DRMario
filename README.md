@@ -19,4 +19,4 @@ This project is a port of the classic **Dr. Mario** game, specifically designed 
 - Learned to integrate hardware-specific SDKs to create interactive applications on embedded devices.
 - Developed custom graphics for small displays, optimizing for clarity and usability.
 
-You can view the project on GitHub: [Dr. Mario for M5 Stick](https://github.com/yourusername/DrMarioM5Stick)
+You can view the project on GitHub: [Dr. Mario for M5 Stick](https://github.com/ZakariaRabahi/DrMarioM5Stick)
